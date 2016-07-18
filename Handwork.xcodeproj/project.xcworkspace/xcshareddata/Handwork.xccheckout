@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>803D2CD2-572E-4E4F-AD87-B9263042286E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Handwork</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>7c2655b1-9074-460d-b3ea-60705a77fd02</key>
+		<string>svn://115.28.58.246/andian2</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ios/手工艺/Handwork/Handwork.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>7c2655b1-9074-460d-b3ea-60705a77fd02</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>7c2655b1-9074-460d-b3ea-60705a77fd02</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7c2655b1-9074-460d-b3ea-60705a77fd02</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SVN</string>
+		</dict>
+	</array>
+</dict>
+</plist>
